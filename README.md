@@ -1,2 +1,3 @@
 # OFE-main
-This repository contains a TensorFlow/Keras implementation of the forecasting component of the proposed Online Feature Extraction (OFE) framework for probabilistic multi-step wind power forecasting. 
+Probabilistic multi-step prediction of wind power based on online feature extraction and parallel output network structure, 
+Engineering Applications of Artificial Intelligence, 2026:115298
